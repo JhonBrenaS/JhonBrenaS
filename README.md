@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Jhon / JhonBrenaDev ✨ </h1> 
+<h1 align="center">Hola 👋  soy Jhon / JhonBrenaS ✨ </h1> 
 <p align="center">
     <img src="code.png" width="500" />
 </p>
@@ -38,8 +38,8 @@
 <!-------------------------->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RonaldoLobatoCode&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=RonaldoLobatoCode&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=JhonBrenaS&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=JhonBrenaS&theme=tokyonight&hide_border=false)<br/>
 
 
 
