@@ -22,7 +22,7 @@
 
 👥 Adoro el trabajo en equipo es clave para alcanzar el éxito en cualquier proyecto.
 
-📫 Contacto: **jhonbrena6@gmail.com**
+📫 Contacto: **jhonbrena@gmail.com**
 <!--Intro end-->
   </p>
 <br>
